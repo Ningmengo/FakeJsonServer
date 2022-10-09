@@ -2,7 +2,12 @@
   "posts": [
     {
       "id": 1,
-      "title": "Video1"
+      "title": "Video1",
+      "url": "https://www.youtube.com/watch?v=Tyz-h2lMA3c"
+    },{
+      "id": 2,
+      "title": "Video2",
+      "url":"https://www.youtube.com/watch?v=r9YBLXRqgcY"
     }
   ],
   "profile": {
