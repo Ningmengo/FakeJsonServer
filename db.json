@@ -1,14 +1,8 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": awa,
       "title": "Video1"
-    },{
-      "id": 2,
-      "title": "Video2"
-    },{
-      "id": 3,
-      "title": "Video3"
     }
   ],
   "profile": {
