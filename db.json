@@ -3,15 +3,15 @@
     {
       "id": 1,
       "title": "Video1",
-      "url": "https://www.youtube.com/watch?v=Tyz-h2lMA3c"
+      "url": "Tyz-h2lMA3c"
     },{
       "id": 2,
       "title": "Video2",
-      "url":"https://www.youtube.com/watch?v=r9YBLXRqgcY"
+      "url":"r9YBLXRqgcY"
     },{
       "id": 3,
       "title": "Video3",
-      "url":"https://www.youtube.com/watch?v=4ZAnMCZiJCI"
+      "url":"4ZAnMCZiJCI"
     }
   ],
   "profile": {
